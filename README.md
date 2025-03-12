@@ -1,24 +1,44 @@
-# Curso Estatística do Básico ao Avançado (EBA) - Renata Biaggi
+# 📊 Estatística do Básico ao Avançado (EBA) - Renata Biaggi
 
-Conceitos fundamentais e técnicas avançadas da estatística e análise de dados, cobrindo desde a estatística descritiva até a introdução a machine learning. Aqui estão os principais tópicos abordados:
+Este repositório contém meus estudos e anotações do curso **Estatística do Básico ao Avançado (EBA)**, ministrado por **Renata Biaggi**. O objetivo do curso é fornecer uma base sólida em estatística, desde conceitos fundamentais até técnicas avançadas, incluindo regressão e introdução ao machine learning.  
 
-## Estatística Descritiva:
-- <span style="color:darkblue;">**Tipos de Variáveis:**</span> Categorização e tratamento de diferentes tipos de variáveis.
-- <span style="color:darkblue;">**Gráficos e Visualizações:**</span> Uso de gráficos para análise de dados, incluindo histogramas e boxplots.
-- <span style="color:darkblue;">**Medidas de Tendência Central e Dispersão:**</span> Média, mediana, moda, variância, desvio padrão.
+---
 
-## Noções de Probabilidade e Distribuições:
-- <span style="color:darkblue;">**Conceitos Básicos:**</span> Definição e aplicação de espaço amostral, eventos, união e interseção.
-- <span style="color:darkblue;">**Probabilidade:**</span> Propriedades, regras, probabilidade condicional e Teorema de Bayes.
-- <span style="color:darkblue;">**Distribuições Comuns:**</span> Distribuições Binomial, Bernoulli, Normal, T-student, Z, F, Chi-quadrado.
+## 📌 Tópicos Abordados  
 
-## Teste de Hipóteses e Teste AB:
-- <span style="color:darkblue;">**Testes de Hipótese:**</span> Diferenciação entre população e amostra, hipóteses nula e alternativa, p-valor; testes t, F, Z, chi-quadrado, ANOVA, testes não paramétricos e bootstrap.
-- <span style="color:darkblue;">**Teste AB:**</span> Design de teste, cálculo do tamanho mínimo de amostra, identificação e correção de vieses.
+### 🔹 Estatística Descritiva  
+- Tipos de Variáveis: Categorização e tratamento.  
+- Gráficos e Visualizações: Histogramas, boxplots, entre outros.  
+- Medidas de Tendência Central: Média, mediana, moda.  
+- Medidas de Dispersão: Variância, desvio padrão, quartis.  
 
-## Regressão:
-- <span style="color:darkblue;">**Regressão Linear:**</span> Simples e múltipla com OLS, interpretação de R² e R² ajustado.
-- <span style="color:darkblue;">**Pressupostos da Regressão:**</span> Revisão crítica dos pressupostos necessários para a validade dos modelos de regressão.
-- <span style="color:darkblue;">**Tratamento de Variáveis Categóricas:**</span> Técnicas para incorporar variáveis categóricas em modelos de regressão.
-- <span style="color:darkblue;">**Regressão Logística:**</span> Fundamentos e aplicações.
-- <span style="color:darkblue;">**Introdução ao Machine Learning:**</span> Principais conceitos e aplicações iniciais.
+### 🔹 Noções de Probabilidade e Distribuições  
+- Conceitos Básicos: Espaço amostral, eventos, interseção e união.  
+- Probabilidade: Regras, probabilidade condicional, Teorema de Bayes.  
+- Distribuições de Probabilidade: Binomial, Bernoulli, Normal, T-student, Z, F, Chi-quadrado.  
+
+### 🔹 Teste de Hipóteses e Teste AB  
+- Testes Paramétricos: Teste t, F, Z, chi-quadrado, ANOVA.  
+- Testes Não Paramétricos e Bootstrap.  
+- Teste AB: Design, tamanho mínimo de amostra, identificação de vieses.  
+
+### 🔹 Regressão  
+- Regressão Linear Simples e Múltipla: OLS, R² e R² ajustado.  
+- Pressupostos da Regressão: Análise crítica dos requisitos.  
+- Variáveis Categóricas: Como tratar em modelos de regressão.  
+- Regressão Logística: Aplicações e fundamentos.  
+
+### 🔹 Introdução ao Machine Learning  
+- Conceitos básicos e primeiros passos na modelagem preditiva.  
+
+---
+
+## 📂 Estrutura do Repositório  
+📁 `notebooks/` → Cadernos Jupyter com códigos e exemplos práticos  
+📁 `datasets/` → Conjunto de dados utilizados nos exercícios  
+📁 `projetos/` → Aplicações práticas de estatística em diferentes cenários  
+
+---
+💡 **Sugestões e colaborações são bem-vindas!**  
+
+📩 Entre em contato: camiladacruz.cs@gmail.com 
